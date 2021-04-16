@@ -8,15 +8,11 @@
 
 _{}_
 
-## Setup/Installation Requirements
-
-Software Requirements
+### Software Requirements
 
 1. Internet browser
 2. [Node](https://nodejs.org/en/)
 3. A code editor like VS Code or Atom to view or edit the codebase.
-
-Open via Bash/GitBash:
 
 ### Installation
 
